@@ -2,7 +2,7 @@ import { useOptionalUser } from "~/utils";
 
 import logo from "~/images/bbs_logo.jpeg";
 import shop1 from "~/images/IMG_0046.jpeg";
-import shop2 from "~/images/IMG_0047.jpg";
+import shop2 from "~/images/IMG_0047.jpeg";
 
 export default function Index() {
   const user = useOptionalUser();
